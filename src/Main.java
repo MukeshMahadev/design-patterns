@@ -17,5 +17,10 @@ public class Main {
         // Run Builder pattern example
         BuilderDriver builderDriver = new BuilderDriver();
         builderDriver.run();
+
+
+        // Simple Filter using Stream
+
+
     }
 }
